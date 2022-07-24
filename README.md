@@ -127,7 +127,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Alejandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=acarrera6806&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acarrera6806&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="acarrera6806" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acarrera6806&langs_count=6&show_icons=true&locale=en&layout=compact&theme=algolia"/>
   <br/>
   <b>Nota:</b> El top de languajes es solamente una metrica de los lenguajes que consiste el código publicado en los repositorios y no refleja la experiencia ni el nivel de habilidad en los lenguajes.
   </p>
