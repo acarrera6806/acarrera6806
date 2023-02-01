@@ -122,7 +122,7 @@
 
 
   <summary><b>💻 Estado de perfil de GitHub</b></summary>
-  [![Top Langs](https://github-redme-stats.vercel.app/api/top-langs/?username=acarrera6806&show_icons=true&theme=dracula)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acarrera6806&show_icons=true&theme=dracula)](https://github.com/acarrera6806/github-readme-stats)
   
 
 ----
