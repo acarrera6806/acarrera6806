@@ -136,4 +136,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acarrera6806&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
 -----
+![Snake animation](https://github.com/acarrera6806/acarrera6806/blob/output/github-contribution-grid-snake.svg)
+
 Última edición: 7/23/2022
